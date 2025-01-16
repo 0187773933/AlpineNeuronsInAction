@@ -1,0 +1,127 @@
+simulations:
+  "Site of Impulse Initiation":
+    path: "/tutorials/1dend/tutorial.htm"
+    simulations:
+      - "/nrm/1dend/1dend.nrm"
+  "Synaptic Integration":
+    path: "/tutorials/3dendspassive/start.htm"
+    simulations:
+      - "/nrm/3dendspassive/3dendspassive.nrm"
+  "The Ca Action Potential":
+    path: "/tutorials/apca/start.htm"
+    simulations:
+      - "/nrm/apca/apca.nrm"
+  "The Na Action Potential":
+    path: "/tutorials/apna/start.htm"
+    simulations:
+      - "/nrm/apna/apna.nrm"
+  "Extracellular Ca Sensitivity of the Na Channel":
+    path: "/tutorials/cao/start.htm"
+    simulations:
+      - "/nrm/cao/cao.nrm"
+  "Non-uniform Channel Density":
+    path: "/tutorials/changedens/start.htm"
+    simulations:
+      - "/nrm/changedens/changedens.nrm"
+  "Axon Diameter Change":
+    path: "/tutorials/changediam/start.htm"
+    simulations:
+      - "/nrm/changediam/changediam.nrm"
+  "Chattering Ion Channels":
+    path: "/tutorials/chatchans/start.htm"
+    simulations:
+      - "/nrm/chatchans/chatchans.nrm"
+  "Coincidence Detection":
+    path: "/tutorials/coincidence/start.htm"
+    simulations:
+      - "/nrm/coincidence/coincidence.nrm"
+  "Partial Demyelination":
+    path: "/tutorials/demyelin/start.htm"
+    simulations:
+      - "/nrm/demyelin/demyelin.nrm"
+  "Postsynaptic Inhibition":
+    path: "/tutorials/inhibition/start.htm"
+    simulations:
+      - "/nrm/inhibition/inhibition.nrm"
+  "Introduction to Neurons in Action":
+    path: "/tutorials/intro/start.htm"
+    simulations:
+      - "/nrm/intro/intro.nrm"
+  "Na and K Channel Kinetics":
+    path: "/tutorials/kinetics/start.htm"
+    simulations:
+      - "/nrm/kinetics/kinetics.nrm"
+  "The Membrane Tutorial":
+    path: "/tutorials/membrane/start.htm"
+    simulations:
+      - "/nrm/membrane/membrane.nrm"
+  "The Myelinated Axon":
+    path: "/tutorials/myelin/start.htm"
+    simulations:
+      - "/nrm/myelin/myelin.nrm"
+  "The Neuromuscular Junction":
+    path: "/tutorials/nmj/start.htm"
+    simulations:
+      - "/nrm/nmj/nmj.nrm"
+  "The Passive Axon":
+    path: "/tutorials/passive/start.htm"
+    simulations:
+      - "/nrm/passive/passive.nrm"
+  "A Dynamical View of Threshold":
+    path: "/tutorials/phaseplane/start.htm"
+    simulations:
+      - "/nrm/phaseplane/phaseplane.nrm"
+  "Impulse Invasion of the Presynaptic Terminal":
+    path: "/tutorials/precurrents/start.htm"
+    simulations:
+      - "/nrm/precurrents/precurrents.nrm"
+  "Interactions of Synaptic Potentials":
+    path: "/tutorials/pspsinteract/start.htm"
+    simulations:
+      - "/nrm/pspsinteract/pspsinteract.nrm"
+  "Equilibrium Potentials":
+    path: "/tutorials/restpot/start.htm"
+    simulations:
+      - "/nrm/restpot/restpot.nrm"
+  "The Unmyelinated Axon":
+    path: "/tutorials/squid/tutorial.htm"
+    simulations:
+      - "/nrm/squid/squid.nrm"
+  "Threshold: To Fire or Not to Fire":
+    path: "/tutorials/threshold/start.htm"
+    simulations:
+      - "/nrm/threshold/threshold.nrm"
+  "Voltage Clamping a Patch":
+    path: "/tutorials/vclamp/start.htm"
+    simulations:
+      - "/nrm/vclamp/vclamp.nrm"
+  "Voltage Clamping Intact Cells":
+    path: "/tutorials/vclampcells/start.htm"
+    simulations:
+      - "/nrm/vclampcells/vclampcells.nrm"
+  "Inhibition":
+    path: ""
+    simulations:
+      - "/inhibition/inhibition.nrm"
+      - "/inhibition/inhibition.ses"
+  "ResPot":
+    path: ""
+    simulations:
+      - "/restpot/restpot.nrm"
+  "Squid":
+    path: ""
+    simulations:
+      - "/squid/squid.nrm"
+  "Threshold":
+    path: ""
+    simulations:
+      - "/threshold/threshold.nrm"
+  "VClamp":
+    path: ""
+    simulations:
+      - "/vclamp/stim.ses"
+      - "/vclamp/vclamp.nrm"
+  "VClampCells":
+    path: ""
+    simulations:
+      - "/vclampcells/vclampcells.nrm"
